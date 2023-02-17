@@ -1,0 +1,106 @@
+.subject {
+}
+.contruction {
+}
+.link-1 {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  background-color: rgba(255, 255, 0, 0.5);
+  border: dashed rgb(12%, 56%, 100%, 1) 1px;
+  border-radius: 50%;
+  right: 265px;
+  top: 45px;
+}
+.link-1:hover {
+  background-color: rgba(255, 255, 0, 1);
+  border: solid rgb(12%, 56%, 100%, 1) 1px;
+}
+.link-2 {
+  position: absolute;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  background-color: rgba(255, 255, 0, 0.5);
+  border: dashed rgb(12%, 56%, 100%, 1) 1px;
+  right: 210px;
+  top: 190px;
+}
+.link-2:hover {
+  background-color: rgba(255, 255, 0, 1);
+  border: solid rgb(12%, 56%, 100%, 1) 1px;
+}
+.link-3 {
+  position: absolute;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  background-color: rgba(255, 255, 0, 0.5);
+  border: dashed rgb(12%, 56%, 100%, 1) 1px;
+  right: 365px;
+  bottom: 170px;
+}
+.link-3:hover {
+  background-color: rgba(255, 255, 0, 1);
+  border: solid rgb(12%, 56%, 100%, 1) 1px;
+}
+.link-4 {
+  position: absolute;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  background-color: rgba(255, 255, 0, 0.5);
+  border: dashed rgb(12%, 56%, 100%, 1) 1px;
+  right: 490px;
+  bottom: 190px;
+}
+.link-4:hover {
+  background-color: rgba(255, 255, 0, 1);
+  border: solid rgb(12%, 56%, 100%, 1) 1px;
+}
+.link-5 {
+  position: absolute;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  background-color: rgba(255, 255, 0, 0.5);
+  border: dashed rgb(12%, 56%, 100%, 1) 1px;
+  left: 400px;
+  bottom: 110px;
+}
+.link-5:hover {
+  background-color: rgba(255, 255, 0, 1);
+  border: solid rgb(12%, 56%, 100%, 1) 1px;
+}
+.link-6 {
+  position: absolute;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  background-color: rgba(255, 255, 0, 0.5);
+  border: dashed rgb(12%, 56%, 100%, 1) 1px;
+  left: 185px;
+  bottom: 70px;
+}
+.link-6:hover {
+  background-color: rgba(255, 255, 0, 1);
+  border: solid rgb(12%, 56%, 100%, 1) 1px;
+}
+.link-7 {
+  position: absolute;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  background-color: rgba(255, 255, 0, 0.5);
+  border: dashed rgb(12%, 56%, 100%, 1) 1px;
+  left: 110px;
+  bottom: 145px;
+}
+.link-7:hover {
+  background-color: rgba(255, 255, 0, 1);
+  border: solid rgb(12%, 56%, 100%, 1) 1px;
+}
+.construction-block {
+  position: relative;
+  width: 1200px;
+}
