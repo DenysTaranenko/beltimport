@@ -146,7 +146,8 @@
 .detail-5 {
   position: absolute;
   width: 170px;
-  height: 200px;
+  height: 235px;
+  padding: 10px;
   top: 60px;
   border-radius: 10px;
   opacity: 0;
@@ -175,12 +176,13 @@
 }
 .detail-6 {
   position: absolute;
-  width: 170px;
-  height: 200px;
+  width: 400px;
+  height: 225px;
+  padding: 10px;
   top: 70px;
   border-radius: 10px;
   opacity: 0;
-  left: 30px;
+  left: 0px;
   z-index: 999;
   background-color: rgba(0, 0, 0, 0.8);
 }
@@ -206,8 +208,9 @@
 .detail-7 {
   position: absolute;
   width: 190px;
-  height: 200px;
-  bottom: 90px;
+  height: 255px;
+  padding: 10px;
+  bottom: 100px;
   border-radius: 10px;
   opacity: 0;
   left: 0px;
