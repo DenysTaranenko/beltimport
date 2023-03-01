@@ -26,8 +26,8 @@
 .detail-1 {
   position: absolute;
   padding: 10px;
-  width: 170px;
-  height: 295px;
+  width: 200px;
+  height: 305px;
   top: 0px;
   border-radius: 10px;
   opacity: 0;
@@ -51,19 +51,43 @@
   border: solid rgb(12%, 56%, 100%, 1) 1px;
   overflow: visible;
 }
-.detail-2 {
+.detail-2-first {
   position: absolute;
   padding: 10px;
-  width: 350px;
-  height: 550px;
-  bottom: -240px;
-  border-radius: 10px;
+  width: 450px;
+  height: 290px;
+  bottom: -70px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
   opacity: 0;
-  right: 120px;
+  right: 450px;
   z-index: 999;
   background-color: rgba(0, 0, 0, 0.9);
 }
-.link-2:hover .detail-2 {
+.detail-discription-big {
+  margin-bottom: 23px;
+  font-size: 12px;
+  color: white;
+}
+.detail-2-second {
+  position: absolute;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 30px;
+  width: 430px;
+  height: 290px;
+  bottom: -70px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  opacity: 0;
+  right: 20px;
+  z-index: 999;
+  background-color: rgba(0, 0, 0, 0.9);
+}
+.link-2:hover .detail-2-first {
+  opacity: 1;
+}
+.link-2:hover .detail-2-second {
   opacity: 1;
 }
 .link-3 {
@@ -85,8 +109,8 @@
 .detail-3 {
   position: absolute;
   padding: 10px;
-  width: 410px;
-  height: 280px;
+  width: 482px;
+  height: 290px;
   bottom: 100px;
   border-radius: 10px;
   opacity: 0;
@@ -116,8 +140,8 @@
 .detail-4 {
   position: absolute;
   padding: 10px;
-  width: 170px;
-  height: 320px;
+  width: 200px;
+  height: 300px;
   bottom: 0px;
   border-radius: 10px;
   opacity: 0;
@@ -146,8 +170,8 @@
 }
 .detail-5 {
   position: absolute;
-  width: 170px;
-  height: 270px;
+  width: 200px;
+  height: 280px;
   padding: 10px;
   bottom: 0px;
   border-radius: 10px;
@@ -177,8 +201,8 @@
 }
 .detail-6 {
   position: absolute;
-  width: 400px;
-  height: 240px;
+  width: 430px;
+  height: 260px;
   padding: 10px;
   bottom: 110px;
   border-radius: 10px;
@@ -208,8 +232,8 @@
 }
 .detail-7 {
   position: absolute;
-  width: 190px;
-  height: 305px;
+  width: 211px;
+  height: 320px;
   padding: 10px;
   bottom: 80px;
   border-radius: 10px;
