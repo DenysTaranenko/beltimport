@@ -28,10 +28,10 @@
   padding: 10px;
   width: 170px;
   height: 295px;
-  top: -100px;
+  top: 0px;
   border-radius: 10px;
   opacity: 0;
-  left: 150px;
+  right: 100px;
   z-index: 999;
   background-color: rgba(0, 0, 0, 0.9);
 }
@@ -87,10 +87,10 @@
   padding: 10px;
   width: 410px;
   height: 280px;
-  bottom: 0px;
+  bottom: 100px;
   border-radius: 10px;
   opacity: 0;
-  left: 75px;
+  right: 0px;
   z-index: 999;
   background-color: rgba(0, 0, 0, 0.9);
 }
