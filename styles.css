@@ -60,7 +60,7 @@
   border-top-left-radius: 10px;
   border-bottom-left-radius: 10px;
   opacity: 0;
-  right: 450px;
+  right: 500px;
   z-index: 999;
   background-color: rgba(0, 0, 0, 0.9);
 }
@@ -80,7 +80,7 @@
   border-top-right-radius: 10px;
   border-bottom-right-radius: 10px;
   opacity: 0;
-  right: 20px;
+  right: 70px;
   z-index: 999;
   background-color: rgba(0, 0, 0, 0.9);
 }
